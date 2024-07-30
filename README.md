@@ -1,16 +1,15 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=SIX&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 <!--
 **MINSIX/MINSIX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={alstlr0718})](https://solved.ac/{alstlr0718})
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MINSIX)](https://github.com/anuraghazr/github-readme-stats)
