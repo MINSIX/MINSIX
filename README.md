@@ -9,3 +9,26 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=alstlr0718)](https://solved.ac/alstlr0718)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MINSIX)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+:clipboard: About Me
+- E-mail : alstlr0718@gmail.com
+- Research Area: LLM, sLLM, LoRA, RAG, ML Engineer
+
+ </br>
+ 
+:book: Publication
+
+</br>
+
+:two_men_holding_hands: PROJECT
+
+
+</br>
+
+:trophy: Awards
+
+</br>
+
+⚡ Certificate
