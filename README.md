@@ -19,6 +19,16 @@
  </br>
  
 :book: Publication
+M. Woo, J. Si, S. Kim, "Exploring the Viability of Chatbots Based on RAG and QLoRA for O2O Stores", Proc. Of Korean Institute of Information, Electronics, and Communication Technology Conference, pp. 198-199, May. 2024.
+
+J. Si, J. Song, M. Woo, D. Kim, Y. Lee, and S. Kim, "Generative AI Models for Virtual Interviewing : Applicability and Performance Comparison", International Conference on Innovation, Communication and Engineering(IEEE ICICE), Nov. 2023.
+
+M. Woo, J. Si, and S. Kim, "Performance Comparison of Virtual Interviewer Generation Using 2D to 3D Methods with PIFu Series Models", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 440-441, Nov. 2023.
+
+M. Woo, J. Si, J. Jo, and S. Kim, "Development of a Chatbot Prototype for Customer Intent Classification in O2O Stores", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 442-443, Nov. 2023.
+
+D. Kim, J. Si, S. Son, M. Woo, and S. Kim, "Stable Diffusion-based Prompt Engineering for Generating Virtual Interviewers", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 30, No. 2, pp.23-24, Jul. 2023
+
 
 </br>
 
