@@ -14,7 +14,7 @@
 
 :clipboard: About Me
 - E-mail : alstlr0718@gmail.com
-- Research Area: LLM, sLLM, LoRA, RAG, ML Engineer
+- Research Area: LLM, sLLM, LoRA, RAG
 
  </br>
  
