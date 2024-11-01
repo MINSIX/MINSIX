@@ -35,15 +35,28 @@
 
 :two_men_holding_hands: PROJECT
 
+- 창의설계 프로젝트 : 호우 특보 시 하천지역 알림 전송 및 탈출 유도 시스템(전체적인 기획 및 조율, 개발 총괄, 팀장)
+
+- 오픈소스 프로젝트 : 당근마켓 클론 코딩(Firebase와 Flutter를 이용한 Chatting 시스템 개발)
 
 </br>
 
 :trophy: Awards
 
+- Codersit 2024 The 2nd COCI in Gumi Bronze
+
+- 2024 Gemma 파인튜닝톤 (아이디어톤) 장려상
+ 
 - M. Woo, **J. Si**, J. Jo, and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2023.11.24, Korean Institute of Information Technology
   
 - M. Woo, **J. Si** and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2023.11.24, Korean Institute of Information Technology  
 
 </br>
 
-⚡ Certificate
+⚡ Experience
+
+- 국립금오공과대학교 지능형영상분석연구실 학부연구생(23.4~24.12)
+
+- 한국전자통신연구원 하계 연구연수생(24.8~24.9)
+
+- 한국전파진흥협회 메타버스 펠로우십 수료(23.10~23.12)
