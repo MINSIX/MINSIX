@@ -20,7 +20,7 @@
  
 :book: Publication
 
-- I. Jang, **M. Woo**, H. Park, & D. Yoo, Wedge Tightness Acoustic Test: Learning Procedure Design and Performance Evaluation of Denoiser and Classifier Model. Korea Artificial Intelligence Conference , Sep. 2024.
+- I. Jang, **M. Woo**, H. Park, & D. Yoo, Wedge Tightness Acoustic Test: Learning Procedure Design and Performance Evaluation of Denoiser and Classifier Model. Korea Artificial Intelligence Conference , pp. 319-320, Sep. 2024.
 
 - **M. Woo**, J. Si, S. Kim, "Exploring the Viability of Chatbots Based on RAG and QLoRA for O2O Stores", Proc. Of Korean Institute of Information, Electronics, and Communication Technology Conference, pp. 198-199, May. 2024.
 
