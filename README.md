@@ -20,7 +20,7 @@
  
 :book: Publication
 
-- **M. Woo**, J. Si, and S. Kim, "Document Summary-Based Chatbot System Utilizing Retrieval-Augmented Generation and Smaller Large Language Models", Journal of Korean Institute of Information Technology(JKIIT), Accepted
+- **M. Woo**, J. Si, and S. Kim, "Document Summary-Based Chatbot System Utilizing Retrieval-Augmented Generation and Smaller Large Language Models", Journal of Korean Institute of Information Technology(JKIIT), Vol. 23, No. 1, pp.13-20, Jan. 2025.
 
 - **M. Woo**,  J. Si and S. Kim, "Performance Comparisons of Open Source Vector Stores for Retrievel-Augmented Generation in Korean",  Proc. Of Korean Institute of Information Technology Conference, pp. 948-949, Nov. 2024.
 
